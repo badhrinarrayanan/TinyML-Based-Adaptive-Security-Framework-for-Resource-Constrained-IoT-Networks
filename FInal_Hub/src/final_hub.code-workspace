@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "final_hub",
+			"path": ".."
+		},
+		{
+			"name": "AES_combined_hub",
+			"path": "../../../dataset/dataset_wifi/AES_combined_hub"
+		}
+	],
+	"settings": {}
+}
