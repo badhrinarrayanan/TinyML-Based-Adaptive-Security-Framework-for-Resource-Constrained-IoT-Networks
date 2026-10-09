@@ -6,7 +6,7 @@ The framework monitors network behaviour, executes a four-class XGBoost model on
 
 ## Hardware Setup
 
-![Hardware setup of the ESP32-based adaptive security framework](assets/hardware-setup.jpg)
+![Hardware setup of the ESP32-based adaptive security framework](assets/hardware-setup.jpeg)
 
 *Experimental hardware setup with ESP32-based devices and the wireless communication environment.*
 
@@ -16,19 +16,19 @@ The dashboard displays network telemetry, threat-score changes, the selected sec
 
 ### Normal Security State
 
-![Normal security state](assets/dashboard-normal.png)
+![Normal security state](assets/dashboard-normal.jpeg)
 
 **Policy:** AES-128-GCM
 
 ### Elevated Security State
 
-![Elevated security state](assets/dashboard-elevated.png)
+![Elevated security state](assets/dashboard-elevated.jpeg)
 
 **Policy:** AES-256-GCM
 
 ### Critical Security State
 
-![Critical security state](assets/dashboard-critical.png)
+![Critical security state](assets/dashboard-critical.jpeg)
 
 **Policy:** ML-KEM-512 key establishment with AES-256-GCM
 
